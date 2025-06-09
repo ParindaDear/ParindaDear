@@ -4,7 +4,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParindaDear/ParindaDear/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ParindaDear/count.svg?"  />
+</div>
 
 # 💫Hi, I'm Parinda Lertpituckchaiporn (Dear) :
 🎓 I'm currently a 2nd-year IT student at KMUTT   

@@ -1,10 +1,10 @@
 
 
 # 💫Hi, I'm Parinda Lertpituckchaiporn (Dear) :
-🎓 I'm currently a 2nd-year IT student at KMUTT (King Mongkut's University of Technology Thonburi)  
+🎓 I'm currently a 2nd-year IT student at KMUTT 
 🚀 Right now, I'm focusing on learning, growing, and becoming a little better every day.  
 🐠 I really enjoy spending time with animals and growing plants — those things make me happy.   
-💯 Whatever I do, I always give it my all. No doing things halfway.  
+💯 Whatever I do, I always give it my all. Not doing things halfway.  
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parin.dear._) 

@@ -1,4 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParindaDear/ParindaDear/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParindaDear/ParindaDear/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ParindaDear/ParindaDear/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
 # 💫Hi, I'm Parinda Lertpituckchaiporn (Dear) :
 🎓 I'm currently a 2nd-year IT student at KMUTT 

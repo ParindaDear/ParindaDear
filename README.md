@@ -14,6 +14,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parin.dear._) 
 
 # 📊  GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParindaDear&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParindaDear&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 

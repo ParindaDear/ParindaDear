@@ -5,7 +5,7 @@
 </picture>
 
 # 💫Hi, I'm Parinda Lertpituckchaiporn (Dear) :
-🎓 I'm currently a 2nd-year IT student at KMUTT   
+🎓 I'm currently a 3rd-year IT student at KMUTT   
 🚀 Right now, I'm focusing on learning, growing, and becoming a little better every day.  
 🐠 I really enjoy spending time with animals and growing plants — those things make me happy.   
 💯 Whatever I do, I always give it my all. Not doing things halfway.  
